@@ -1,8 +1,8 @@
 {
   "name": "vue-dwy-canvas-nest",
-  "description": "A Vue.js project",
+  "description": "A Vue.js component
   "version": "1.0.0",
-  "author": "18942825033@163.com",
+  "author": "dwy",
   "license": "MIT",
   "private": false,
   "scripts": {
@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "18942825033@163.com"
+    "url": "https://github.com/interestingDWY/vue-canvas-component"
   },
   "keywords": [
     "canvas vue"
